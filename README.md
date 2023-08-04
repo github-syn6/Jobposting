@@ -8,7 +8,6 @@ We're on the hunt for a skilled C++ Developer with a passion for innovation and 
 🔹 Linux lovers, this one's for you!
 Ready to make an impact and be part of an extraordinary team? Apply now and let's chat about your next career move. 🤝
 Looking for immediate joiner 
-Experience in C++ is 3 to 10 yrs .
-https://www.linkedin.com/in/sarita-jena-53b185118/- my linkedin profile.
+Experience in C++ is 6+ yrs .
 In India we have in Noida, Bangalore & Mumbai. Prefered localities of these three locations.
 We are a MAS and CFTC licensed fintech firm focusing on FX options and Crypto options tech solutions and trade venue. We are headquartered in Singapore.
